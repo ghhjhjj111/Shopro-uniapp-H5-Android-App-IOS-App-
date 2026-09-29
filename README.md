@@ -1,4 +1,4 @@
-# 商城高级版，uniapp多平台移动商城（微信公众号、微信小程序、H5网页、Android-App、IOS-App购物商城）
+# ym7k商城高级版，uniapp多平台移动商城（微信公众号、微信小程序、H5网页、Android-App、IOS-App购物商城）
 
 源码获取：ym7k.com/10650/Shopro商城高级版，uniapp多平台移动商城（微信公众号、微信小程序、H5网页、Android-App、IOS-App购物商城）
 
